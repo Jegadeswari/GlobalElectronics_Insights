@@ -57,26 +57,26 @@ Geographical Analysis: Analyze sales by store location to identify high-performi
 **Results/Findings:**
 The analysis results are summarized as follows
 
-Customer Demographics:
-> The gender distribution appears to be evenly balanced with male and female customers represented more or less equally. This suggests that the retailer's products and marketing strategies may be appealing to both genders.
-> The customer base is predominantly composed of individuals aged 60 and above, and the youngest individuals aged between 20 and 29, represents a significantly smaller portion. The remaining age groups, spanning from 30 to 59 years old, exhibit a relatively uniform distribution. This distribution suggests a diverse customer base with a substantial portion of older individuals, potentially indicating a mature market segment.
-> The majority of customers are from North America followed by Europe and Australia. Toronto is leading amongst other cities along with other cities in the US, followed by the ones in Canada including Montreal, Calgary and Atlanta. All of these cities located in Nourth America, confirms the previous observation.
+**Customer Demographics:**__
+1. The gender distribution appears to be evenly balanced with male and female customers represented more or less equally. This suggests that the retailer's products and marketing strategies may be appealing to both genders.
+2. The customer base is predominantly composed of individuals aged 60 and above, and the youngest individuals aged between 20 and 29, represents a significantly smaller portion. The remaining age groups, spanning from 30 to 59 years old, exhibit a relatively uniform distribution. This distribution suggests a diverse customer base with a substantial portion of older individuals, potentially indicating a mature market segment.
+3. The majority of customers are from North America followed by Europe and Australia. Toronto is leading amongst other cities along with other cities in the US, followed by the ones in Canada including Montreal, Calgary and Atlanta. All of these cities located in Nourth America, confirms the previous observation.
 
-Correlation of various features with Revenue:
-> Both males and females within the same age group show similar purchasing patterns across different product categories. This indicates a gender-neutral trend in purchasing behavior, suggesting that gender may not be a significant factor influencing product preferences among customers.
-> Regardless of age and gender, customers demonstrate consistent preferences for various product categories. The 'normalized purchase frequency heatmap' shows same correlation. This consistency suggests that product preferences are not strongly correlated with demographic factors such as age or gender but indicating universal appeal of certain products across diverse customer segments.
-> Analysis of the 'normalized purchase frequency heatmap' shows highest purchase of purchase computers, followed by cell phones, music, movies, and audio books. These product categories appear as the most favored among customers of all age groups and genders, indicating their widespread appeal and demand among the customer base.
-> However, the purchase frequency heatmap highlights a trend among customers aged 60 and above, who demonstrate higher purchasing frequency compared to other age groups. This observation can be attributed to the larger size of this age group, suggesting that while their purchasing frequency may be higher, it may not indicate a stronger preference for specific products over other groups.
-> Revenue shows almost negligible/no correlation with 'Store Age' and 'Store Size'. This suggests that revenue or profit does not vary with these 2 parameters.
+**Correlation of various features with Revenue:**__
+1. Both males and females within the same age group show similar purchasing patterns across different product categories. This indicates a gender-neutral trend in purchasing behavior, suggesting that gender may not be a significant factor influencing product preferences among customers.
+2. Regardless of age and gender, customers demonstrate consistent preferences for various product categories. The 'normalized purchase frequency heatmap' shows same correlation. This consistency suggests that product preferences are not strongly correlated with demographic factors such as age or gender but indicating universal appeal of certain products across diverse customer segments.
+3. Analysis of the 'normalized purchase frequency heatmap' shows highest purchase of purchase computers, followed by cell phones, music, movies, and audio books. These product categories appear as the most favored among customers of all age groups and genders, indicating their widespread appeal and demand among the customer base.
+4. However, the purchase frequency heatmap highlights a trend among customers aged 60 and above, who demonstrate higher purchasing frequency compared to other age groups. This observation can be attributed to the larger size of this age group, suggesting that while their purchasing frequency may be higher, it may not indicate a stronger preference for specific products over other groups.
+5. Revenue shows almost negligible/no correlation with 'Store Age' and 'Store Size'. This suggests that revenue or profit does not vary with these 2 parameters.
 
-Top Leading Brands, Products and Categories:
-> Leading Brands: Contos dominates followed by Wide World Importers, Southridge Video and Adventure Works. Contoso's lead indicates strong brand recognition and customer preference. Marketing and product quality likely contribute to this brand's success.
-> Top Category and Subcategory: Computers are the most popular category followed by Cell Phones. Bluetooth Headphones is a subctegory in demand. This indicates strong preference for technology and electronics among Customers. Next in the list is Music, Movies and Audio Books which suggests a substantial market for entertainment content.
-> Top Products:The highest-selling products are desktop computers from "Adventure Works Desktop" and "WWI Desktop" series.The focus on desktop computers suggests a high demand for these products among customers, potentially due to specific features or competitive pricing.
+**Top Leading Brands, Products and Categories:**
+1. Leading Brands: Contos dominates followed by Wide World Importers, Southridge Video and Adventure Works. Contoso's lead indicates strong brand recognition and customer preference. Marketing and product quality likely contribute to this brand's success.
+2. Top Category and Subcategory: Computers are the most popular category followed by Cell Phones. Bluetooth Headphones is a subctegory in demand. This indicates strong preference for technology and electronics among Customers. Next in the list is Music, Movies and Audio Books which suggests a substantial market for entertainment content.
+3. Top Products:The highest-selling products are desktop computers from "Adventure Works Desktop" and "WWI Desktop" series.The focus on desktop computers suggests a high demand for these products among customers, potentially due to specific features or competitive pricing.
 
-Sales and Delivery Trend:
-> The sales trend shows a decline in April every year. However, it gradually increased, peaking in Dec continuing onto Jan and Feb in the subsequent year
-> Overall, there is an upward trend since 2017 until it reached its peak in 2020. Post April 2020, it is visible that sales has not seen its expected upward trend.
+**Sales and Delivery Trend:**
+1. The sales trend shows a decline in April every year. However, it gradually increased, peaking in Dec continuing onto Jan and Feb in the subsequent year
+2. Overall, there is an upward trend since 2017 until it reached its peak in 2020. Post April 2020, it is visible that sales has not seen its expected upward trend.
 
 **Power BI Reports**
-Refer to the attached dashboards from PowerBI in this repository
+Refer to the attached dashboards from PowerBI(.pbx) in this repository
