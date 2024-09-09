@@ -7,7 +7,7 @@ As part of Global Electronics' data analytics team, the goal is to conduct a com
 By analyzing Global Electronics' customer, product, sales, and store data, one can aim to identify key insights that will enhance marketing strategies, optimize inventory management, and improve sales forecasting. This will help tailor marketing campaigns, develop better products, plan effective promotions, and decide on store expansions and optimizations. Additionally, understanding the impact of currency exchange rates on sales will allow for better international pricing strategies. Overall, these insights will help Global Electronics increase customer satisfaction and drive business growth.
 
 **Tools Used:**
-Jupyter Notebook and Pycharm - IDE
+Jupyter Notebook and Visual Studio Code - IDE
 Python, Pandas, Matplotlib, Seaborn - Data cleaning, exploratory data analysis
 My SQL - Database to store and retrieve cleaned data
 Power BI - Visualization
