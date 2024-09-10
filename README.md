@@ -24,7 +24,7 @@ By analyzing Global Electronics' customer, product, sales, and store data, one c
   
   • **Currency exchange rates data (exchangerates.csv):** Contains historical exchange rates between different currencies, crucial for analyzing sales and financial data in a global context.
 
-#Approach
+# Approach
   • **Data Cleaning and Preparation**
     Checking for missing values and handle them appropriately. Converting data types where necessary (e.g., dates, numerical values). Merging datasets where necessary for analysis (e.g., linking sales data with 
     product and customer data).
@@ -37,9 +37,9 @@ By analyzing Global Electronics' customer, product, sales, and store data, one c
 
 # Analysis Steps:
   • **Customer Analysis**
-    - **Demographic Distribution:**__ Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent). 
-    - **Purchase Patterns:**__ Identify purchasing patterns such as frequency of purchases, and preferred products. 
-    - **Segmentation:**__ Segment customers based on demographics and purchasing behavior to identify key customer groups.
+    **Demographic Distribution:** Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
+    **Purchase Patterns:** Identify purchasing patterns such as frequency of purchases, and preferred products.
+    **Segmentation:** Segment customers based on demographics and purchasing behavior to identify key customer groups.
 
   • **Sales Analysis**(This is combined within Product and Store analysis)
     - **Sales by Product:**__ Evaluate which products and categories are the top performers in terms of revenue generated.
