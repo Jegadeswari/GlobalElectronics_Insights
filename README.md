@@ -38,22 +38,24 @@ By analyzing Global Electronics' customer, product, sales, and store data, one c
 # Analysis Steps:
   ## **Customer Analysis**
   • **Demographic Distribution:** Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
+  
   • **Purchase Patterns:** Identify purchasing patterns such as frequency of purchases, and preferred products.
+  
   • **Segmentation:** Segment customers based on demographics and purchasing behavior to identify key customer groups.
 
-  • **Sales Analysis**(This is combined within Product and Store analysis)
-    - **Sales by Product:**__ Evaluate which products and categories are the top performers in terms of revenue generated.
-    - **Sales by Store:**__ Assess the performance of different stores based on sales data. 
-    - **Order Volume over Years:**__ Examine the sales history over month and years.
+  ## Sales Analysis**
+  • **Sales by Product:** Evaluate which products and categories are the top performers in terms of revenue generated.
+  • **Sales by Store:** Assess the performance of different stores based on sales data.
+  • **Order Volume over Years:** Examine the sales history over month and years.
 
-  • **Product Analysis**
-    - **Product Popularity:**__ Identify the most popular products based on sales data.
-    - **Profitability Analysis:**__ Calculate profit margins for products by comparing unit cost and unit price.
-    - **Category Analysis:**__ Analyze sales performance across different product categories and subcategories.
+  ## **Product Analysis**
+  • **Product Popularity:** Identify the most popular products based on sales data.
+  • **Profitability Analysis:** Calculate profit margins for products by comparing unit cost and unit price.
+  • **Category Analysis:** Analyze sales performance across different product categories and subcategories.
 
-  • **Store Analysis**
-    - **Store Performance:**__ Evaluate store performance based on sales, size (square meters), and operational data (open date).
-    - **Geographical Analysis:**__ Analyze sales by store location to identify high-performing regions.
+  ## **Store Analysis**
+  • **Store Performance:** Evaluate store performance based on sales, size (square meters), and operational data (open date).
+  • **Geographical Analysis:** Analyze sales by store location to identify high-performing regions.
     
 # Findings and Recommendations
   The analysis results are summarized as follows:
