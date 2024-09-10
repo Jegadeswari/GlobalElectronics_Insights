@@ -6,9 +6,13 @@ By analyzing Global Electronics' customer, product, sales, and store data, one c
 
 # Tools Used
   • Jupyter Notebook
+  
   • IDE- Visual Studio Code
+  
   • Python, Pandas, Matplotlib, Seaborn - for Data cleaning and EDA(Exploratory Data Analysis)
+  
   • My SQL - Database to store and retrieve cleaned data
+  
   • Power BI - Visualization
 
 # Data Sources
@@ -26,15 +30,22 @@ By analyzing Global Electronics' customer, product, sales, and store data, one c
 
 # Approach
   • **Data Cleaning and Preparation**
+  
     Checking for missing values and handle them appropriately. Converting data types where necessary (e.g., dates, numerical values). Merging datasets where necessary for analysis (e.g., linking sales data with 
     product and customer data).
+    
  • **Load Data**
+ 
    Inserting the preprocessed data into an SQL database by creating relevant tables for each data source.
+   
  • **Power BI Visualization**
+ 
    Connecting SQL to Power BI/Tableau, import the data, and create interactive dashboards.
+   
  • **Develop SQL and Calculations**
+ 
    Formulating and executing SQL and calculations in Power BI to extract key insights from the data.
-
+   
 # Analysis Steps:
   ### Customer Analysis
   • **Demographic Distribution:** Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
