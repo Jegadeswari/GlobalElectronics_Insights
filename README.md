@@ -29,12 +29,11 @@ By analyzing Global Electronics' customer, product, sales, and store data, one c
   • **Currency exchange rates data (exchangerates.csv):** Contains historical exchange rates between different currencies, crucial for analyzing sales and financial data in a global context.
 
 # Approach
-  • **Data Cleaning and Preparation**
-  
-    Checking for missing values and handle them appropriately. Converting data types where necessary (e.g., dates, numerical values). Merging datasets where necessary for analysis (e.g., linking sales data with 
-    product and customer data).
+ • **Data Cleaning and Preparation:**
+ 
+   Checking for missing values and handle them appropriately. Converting data types where necessary (e.g., dates, numerical values). Merging datasets where necessary for analysis (e.g., linking sales data with product and customer data).
     
- • **Load Data**
+ • **Load Data:**
  
    Inserting the preprocessed data into an SQL database by creating relevant tables for each data source.
    
