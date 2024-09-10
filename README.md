@@ -15,9 +15,13 @@ By analyzing Global Electronics' customer, product, sales, and store data, one c
   [https://www.kaggle.com/datasets/bhavikjikadara/global-electronics-retailers]
 
   • **Customer data (customers.csv):** Contains information about customers such gender, D.O.B, and demographics, used for analyzing customer behavior and segmentation.
+  
   • **Sales data (sales.csv):** Includes records of transactions, such as number of sales, product ID, it's quantities, order date, delivery date, store ID, and currency essential for understanding sales patterns and performance.
+  
   • **Products data (products.csv):** Lists product details including IDs, names, categories, subcategory, unit prices, unit costs helping to analyze product performance and trends.
+  
   • **Stores data (stores.csv):** Provides information on store locations, IDs, and attributes, useful for examining geographic sales performance and store-related analysis.
+  
   • **Currency exchange rates data (exchangerates.csv):** Contains historical exchange rates between different currencies, crucial for analyzing sales and financial data in a global context.
 
 #Approach
