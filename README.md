@@ -36,10 +36,10 @@ By analyzing Global Electronics' customer, product, sales, and store data, one c
    Formulating and executing SQL and calculations in Power BI to extract key insights from the data.
 
 # Analysis Steps:
-  • **Customer Analysis**
-    **Demographic Distribution:** Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
-    **Purchase Patterns:** Identify purchasing patterns such as frequency of purchases, and preferred products.
-    **Segmentation:** Segment customers based on demographics and purchasing behavior to identify key customer groups.
+  ## **Customer Analysis**
+  • **Demographic Distribution:** Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
+  • **Purchase Patterns:** Identify purchasing patterns such as frequency of purchases, and preferred products.
+  • **Segmentation:** Segment customers based on demographics and purchasing behavior to identify key customer groups.
 
   • **Sales Analysis**(This is combined within Product and Store analysis)
     - **Sales by Product:**__ Evaluate which products and categories are the top performers in terms of revenue generated.
